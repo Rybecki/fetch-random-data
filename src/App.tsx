@@ -33,6 +33,7 @@ const App = (): JSX.Element => {
       isLoading: false,
     });
     setIsLoading(false);
+    // this interval is just for visual purposes to make "Loading..." visible
     setInterval(() => {
       setIsLoading(true);
     }, 1300);
