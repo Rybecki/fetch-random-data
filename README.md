@@ -6,7 +6,7 @@ npm install
 ```
 
 
-To start the app, simply use
+To start the app, simply use:
 ```
 npm start
 ```
